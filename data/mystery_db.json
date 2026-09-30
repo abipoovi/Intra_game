@@ -1,0 +1,1502 @@
+{
+  "users": {
+    "admin_001": {
+      "id": "admin_001",
+      "name": "Chief Administrator",
+      "username": "admin",
+      "passwordHash": "f9151e8b0277cc0f9a92828ef42cb4d493b477f3c1bd9ec9acac5567499f649c",
+      "role": "ADMIN",
+      "loginStatus": "Online",
+      "createdAt": "2026-09-29T05:24:26.272Z",
+      "lastActive": "2026-09-29T17:51:18.293Z",
+      "accountStatus": "Active"
+    },
+    "p001": {
+      "id": "p001",
+      "name": "Karthik",
+      "username": "player001",
+      "passwordHash": "546ccfa427483aeff6ef91007235777e6c380d6d975444d92af4582b6883ce45",
+      "role": "PLAYER",
+      "loginStatus": "Online",
+      "createdAt": "2026-09-29T05:24:26.272Z",
+      "lastActive": "2026-09-29T16:44:14.140Z",
+      "accountStatus": "Active"
+    },
+    "p002": {
+      "id": "p002",
+      "name": "Priya",
+      "username": "player002",
+      "passwordHash": "546ccfa427483aeff6ef91007235777e6c380d6d975444d92af4582b6883ce45",
+      "role": "PLAYER",
+      "loginStatus": "Offline",
+      "createdAt": "2026-09-29T05:24:26.272Z",
+      "lastActive": "2026-09-29T16:38:16.559Z",
+      "accountStatus": "Active"
+    },
+    "p003": {
+      "id": "p003",
+      "name": "Arun",
+      "username": "player003",
+      "passwordHash": "546ccfa427483aeff6ef91007235777e6c380d6d975444d92af4582b6883ce45",
+      "role": "PLAYER",
+      "loginStatus": "Offline",
+      "createdAt": "2026-09-29T05:24:26.273Z",
+      "lastActive": "2026-09-29T05:24:26.273Z",
+      "accountStatus": "Active"
+    },
+    "p_1790659633444": {
+      "id": "p_1790659633444",
+      "name": "Abinaya M",
+      "username": "830123104008",
+      "passwordHash": "a78d6b93396678497ed37daed639285af3fe20ba05289d5890fa06c84a3918fb",
+      "role": "PLAYER",
+      "loginStatus": "Online",
+      "createdAt": "2026-09-29T05:27:13.444Z",
+      "lastActive": "2026-09-29T17:05:30.288Z",
+      "accountStatus": "Active"
+    },
+    "p_1790660004651": {
+      "id": "p_1790660004651",
+      "name": "Abi",
+      "username": "830123104003",
+      "passwordHash": "abd6d50442d98b479a4fc9467d7a20fa97c466eb6df365df3c94548868d90010",
+      "role": "PLAYER",
+      "loginStatus": "Offline",
+      "createdAt": "2026-09-29T05:33:24.651Z",
+      "lastActive": "2026-09-29T05:33:31.503Z",
+      "accountStatus": "Active"
+    },
+    "p_1790700806535": {
+      "id": "p_1790700806535",
+      "name": "Priya Sharma",
+      "username": "830123104002",
+      "passwordHash": "",
+      "role": "PLAYER",
+      "loginStatus": "Offline",
+      "accountStatus": "Active",
+      "createdAt": "2026-09-29T16:53:26.535Z",
+      "lastActive": "2026-09-29T17:21:12.565Z"
+    },
+    "p_1790702528106": {
+      "id": "p_1790702528106",
+      "name": "Karthik Sundaram",
+      "username": "830123104001",
+      "passwordHash": "",
+      "role": "PLAYER",
+      "loginStatus": "Offline",
+      "accountStatus": "Active",
+      "createdAt": "2026-09-29T17:22:08.106Z",
+      "lastActive": "2026-09-29T17:42:37.779Z"
+    }
+  },
+  "event": {
+    "eventId": "ev-hidden-mystery-01",
+    "eventName": "The Hidden Mystery — Campus Investigation Challenge",
+    "caseTitle": "The Hidden Mystery",
+    "status": "ENDED",
+    "startTime": 1790702496915,
+    "endTime": 1790704282452,
+    "duration": 60,
+    "timeRemaining": 0,
+    "createdAt": "2026-09-29T05:24:26.302Z",
+    "settings": {
+      "accusationEnabled": true,
+      "notesEnabled": true,
+      "cluesVisible": true,
+      "duration": 60
+    }
+  },
+  "playerProgress": {
+    "p001": {
+      "playerId": "p001",
+      "playerName": "Karthik",
+      "username": "player001",
+      "loginStatus": "Online",
+      "investigationStatus": "Not Started",
+      "suspectsInvestigated": [],
+      "questionsAsked": 0,
+      "cluesFound": [],
+      "progressPercentage": 0,
+      "notes": "",
+      "accusation": null,
+      "completed": false,
+      "lastActivity": "04:44 PM",
+      "loginTime": "05:24 AM",
+      "accountStatus": "Active",
+      "suspectStages": {
+        "vicky": 1
+      }
+    },
+    "p002": {
+      "playerId": "p002",
+      "playerName": "Priya",
+      "username": "player002",
+      "loginStatus": "Offline",
+      "investigationStatus": "Not Started",
+      "suspectsInvestigated": [],
+      "questionsAsked": 0,
+      "cluesFound": [],
+      "progressPercentage": 0,
+      "notes": "",
+      "accusation": null,
+      "completed": false,
+      "lastActivity": "04:37 PM",
+      "loginTime": "05:24 AM",
+      "accountStatus": "Active"
+    },
+    "p003": {
+      "playerId": "p003",
+      "playerName": "Arun",
+      "username": "player003",
+      "loginStatus": "Offline",
+      "investigationStatus": "Not Started",
+      "suspectsInvestigated": [],
+      "questionsAsked": 0,
+      "cluesFound": [],
+      "progressPercentage": 0,
+      "notes": "",
+      "accusation": null,
+      "completed": false,
+      "lastActivity": "05:24 AM",
+      "loginTime": "05:24 AM",
+      "accountStatus": "Active"
+    },
+    "p_1790659633444": {
+      "playerId": "p_1790659633444",
+      "playerName": "Abinaya M",
+      "username": "830123104008",
+      "loginStatus": "Online",
+      "investigationStatus": "Investigating",
+      "suspectsInvestigated": [
+        "perumal",
+        "vicky"
+      ],
+      "questionsAsked": 2,
+      "cluesFound": [],
+      "progressPercentage": 20,
+      "notes": "",
+      "accusation": null,
+      "completed": false,
+      "lastActivity": "05:05 PM",
+      "loginTime": "05:27 AM",
+      "accountStatus": "Active"
+    },
+    "p_1790660004651": {
+      "playerId": "p_1790660004651",
+      "playerName": "Abi",
+      "username": "830123104003",
+      "loginStatus": "Offline",
+      "investigationStatus": "Not Started",
+      "suspectsInvestigated": [],
+      "questionsAsked": 0,
+      "cluesFound": [],
+      "progressPercentage": 0,
+      "notes": "",
+      "accusation": null,
+      "completed": false,
+      "lastActivity": "05:33 AM",
+      "loginTime": "05:33 AM",
+      "accountStatus": "Active"
+    },
+    "p_1790700806535": {
+      "playerId": "p_1790700806535",
+      "playerName": "Priya Sharma",
+      "username": "830123104002",
+      "loginStatus": "Offline",
+      "accountStatus": "Active",
+      "investigationStatus": "Not Started",
+      "suspectsInvestigated": [],
+      "questionsAsked": 0,
+      "cluesFound": [],
+      "progressPercentage": 0,
+      "notes": "",
+      "accusation": null,
+      "completed": false,
+      "lastActivity": "05:20 PM",
+      "loginTime": "04:53 PM"
+    },
+    "p_1790702528106": {
+      "playerId": "p_1790702528106",
+      "playerName": "Karthik Sundaram",
+      "username": "830123104001",
+      "loginStatus": "Offline",
+      "accountStatus": "Active",
+      "investigationStatus": "Completed",
+      "suspectsInvestigated": [
+        "vicky",
+        "perumal",
+        "meena",
+        "rangan"
+      ],
+      "questionsAsked": 25,
+      "cluesFound": [
+        "clue-missing-settlement",
+        "clue-breaker-tripped",
+        "clue-meena-ledger"
+      ],
+      "progressPercentage": 100,
+      "notes": "",
+      "accusation": {
+        "suspect": "Vicky (Nephew)",
+        "motive": "he is killer",
+        "evidence": [
+          "Manually Tripped Main Breaker Switch",
+          "Vicky's Urgent Debt Demands & Creditor Notices"
+        ],
+        "submittedAt": "05:35 PM"
+      },
+      "completed": true,
+      "lastActivity": "05:35 PM",
+      "loginTime": "05:22 PM",
+      "suspectStages": {
+        "vicky": 1,
+        "perumal": 2,
+        "meena": 2
+      }
+    }
+  },
+  "chatLogs": {
+    "p_1790659633444": {
+      "perumal": [
+        {
+          "id": "msg_1790700524146",
+          "suspectId": "perumal",
+          "sender": "player",
+          "text": "why are you turn off the electricity",
+          "timestamp": "04:48 PM"
+        },
+        {
+          "id": "msg_1790700527171",
+          "suspectId": "perumal",
+          "sender": "suspect",
+          "text": "*I wipe my trembling hands frantically on my apron, my eyes darting toward the kitchen door before looking down at my feet.*\n\n\"Ayya? What... what are you saying? Turn off the electricity? Why would a poor cook like me do such a thing? I was busy in the kitchen, just finishing up the night milk for the master. You know how old this house is—the wiring is always acting up, and power cuts are common here. I was just trying to find a candle in the dark, that is all! Please, Amma, why are you asking me these things? I have served this family for twenty years, I would never do anything to cause trouble.\"",
+          "timestamp": "04:48 PM",
+          "conversationStage": 0
+        }
+      ],
+      "vicky": [
+        {
+          "id": "msg_1790701530316",
+          "suspectId": "vicky",
+          "sender": "player",
+          "text": "Where were you during the 9:42 PM blackout?",
+          "timestamp": "05:05 PM"
+        },
+        {
+          "id": "msg_1790701533865",
+          "suspectId": "vicky",
+          "sender": "suspect",
+          "text": "It’s a tragedy, truly. I’m still struggling to process that Uncle is gone.\n\nAs for the blackout, I was in the living room. I had arrived around 9:30 PM for our routine visit—Uncle and I usually catch up on business matters on Thursday evenings. When the power cut happened at 9:42 PM, I was standing near the sideboard, pouring myself a glass of water. I simply waited there in the dark, thinking it was just a typical power surge, until the lights flickered back on a few minutes later. I had no reason to move from that spot; I was just waiting for him to call me into the study as he usually does.",
+          "timestamp": "05:05 PM",
+          "conversationStage": 0
+        }
+      ]
+    },
+    "p_1790702528106": {
+      "vicky": [
+        {
+          "id": "msg_1790702541485",
+          "suspectId": "vicky",
+          "sender": "player",
+          "text": "where are you",
+          "timestamp": "05:22 PM"
+        },
+        {
+          "id": "msg_1790702546447",
+          "suspectId": "vicky",
+          "sender": "suspect",
+          "text": "I was in the front wing of the house during the evening. If you want suspects, go interrogate Rangan—he publicly threatened Uncle over the bypass land dispute!",
+          "timestamp": "05:22 PM",
+          "conversationStage": 1
+        },
+        {
+          "id": "msg_1790702631612",
+          "suspectId": "vicky",
+          "sender": "player",
+          "text": "when you leave the house",
+          "timestamp": "05:23 PM"
+        },
+        {
+          "id": "msg_1790702635394",
+          "suspectId": "vicky",
+          "sender": "suspect",
+          "text": "I didn't leave. I was here for a routine visit, just as I have been many times before. I arrived around 9:30 PM to discuss some family matters with Uncle. \n\nHonestly, I’m finding these questions quite intrusive. Why are you focusing your efforts on me when there is a clear motive involving Rangan and his ongoing vendetta against my uncle? My personal business investments are private, and they have absolutely nothing to do with what happened tonight. Are you actually investigating this properly, or are you just looking for an easy target?",
+          "timestamp": "05:23 PM",
+          "conversationStage": 1
+        },
+        {
+          "id": "msg_1790702651965",
+          "suspectId": "vicky",
+          "sender": "player",
+          "text": "why you kill your uncle",
+          "timestamp": "05:24 PM"
+        },
+        {
+          "id": "msg_1790702655967",
+          "suspectId": "vicky",
+          "sender": "suspect",
+          "text": "I arrived at 9:30 PM. Cook Perumal greeted me at the foyer, and I asked about Uncle. I was invited here for dinner and a quiet evening. I have nothing to hide.",
+          "timestamp": "05:24 PM",
+          "conversationStage": 1
+        },
+        {
+          "id": "msg_1790702668047",
+          "suspectId": "vicky",
+          "sender": "player",
+          "text": "tell me the truth dont lie",
+          "timestamp": "05:24 PM"
+        },
+        {
+          "id": "msg_1790702671261",
+          "suspectId": "vicky",
+          "sender": "suspect",
+          "text": "I am telling you the truth. It is insulting to suggest I would harm my own uncle. We had a difference of opinion, yes—mostly regarding the family property settlement he was drafting—but that is a far cry from murder. \n\nIf you're looking for someone with a grudge, look at the people who actually stood to lose millions because of his business decisions. Rangan was practically shouting threats in the boardroom last week. Why aren't you questioning him? \n\nI was in the reception room when the lights went out. I stayed exactly where I was, waiting for the power to return so I could finish my conversation with Uncle. If you think I’m the one who did this, you’re looking in the wrong direction and wasting precious time that should be spent catching the real killer.",
+          "timestamp": "05:24 PM",
+          "discoveredClueId": "clue-missing-settlement",
+          "conversationStage": 1
+        }
+      ],
+      "perumal": [
+        {
+          "id": "msg_1790702734027",
+          "suspectId": "perumal",
+          "sender": "player",
+          "text": "who told you to turn off the current",
+          "timestamp": "05:25 PM"
+        },
+        {
+          "id": "msg_1790702738030",
+          "suspectId": "perumal",
+          "sender": "suspect",
+          "text": "Please, Inspector ayya, don't drag my daughter's name into police matters! Vicky thambi spoke to me in the kitchen earlier, yes... but it was only about estate provisions!",
+          "timestamp": "05:25 PM",
+          "conversationStage": 2
+        },
+        {
+          "id": "msg_1790702801004",
+          "suspectId": "perumal",
+          "sender": "player",
+          "text": "dont lie tell the truth otherwise your daughter marriage is stoppe",
+          "timestamp": "05:26 PM"
+        },
+        {
+          "id": "msg_1790702802401",
+          "suspectId": "perumal",
+          "sender": "suspect",
+          "text": "Aiyo ayya, why are you asking about my daughter's wedding?! I am a poor man, we borrow hand loans from relatives! I didn't touch any electrical switch on purpose!",
+          "timestamp": "05:26 PM",
+          "discoveredClueId": "clue-breaker-tripped",
+          "conversationStage": 2
+        }
+      ],
+      "meena": [
+        {
+          "id": "msg_1790702822411",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "why you enter your father room",
+          "timestamp": "05:27 PM"
+        },
+        {
+          "id": "msg_1790702825069",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "I'm sorry, I think there’s some confusion. I didn't enter my father's room. When the power went out, I was upstairs in my bedroom the entire time. It was pitch black, and honestly, I was just too shaken to move. I stayed there until the lights came back on. Why would you think I was in his room?",
+          "timestamp": "05:27 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790702841087",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "you kiil yoru father i know dont lie",
+          "timestamp": "05:27 PM"
+        },
+        {
+          "id": "msg_1790702844222",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "That is a cruel and completely baseless accusation. How can you even suggest such a thing? He was my father. I am devastated by his death, and I’ve been trying to process the shock of losing him like everyone else in this house. \n\nI was in my room the entire time the power was out. I have no reason to lie, and I certainly had no reason to harm him. If you have any actual evidence instead of these baseless claims, I suggest you present it, because what you're saying is incredibly hurtful and entirely untrue.",
+          "timestamp": "05:27 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790702922674",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "due to your financial problem you kill your father",
+          "timestamp": "05:28 PM"
+        },
+        {
+          "id": "msg_1790702926676",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "This house was father's sanctuary. Knowing someone violated it in the dark breaks my heart.",
+          "timestamp": "05:28 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790702944838",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "dont lie tell the truth",
+          "timestamp": "05:29 PM"
+        },
+        {
+          "id": "msg_1790702948839",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "I have answered everything I know. If you find any real forensic trace of whoever broke into that study, please tell me.",
+          "timestamp": "05:29 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790702988886",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "why are you scared about the forensic you are in the study room??",
+          "timestamp": "05:29 PM"
+        },
+        {
+          "id": "msg_1790702992890",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "Father's study was on the ground floor. When the blackout occurred at 9:42 PM, the house was pitch black. I remember feeling a chill and hearing muffled sounds downstairs.",
+          "timestamp": "05:29 PM",
+          "conversationStage": 2
+        },
+        {
+          "id": "msg_1790703010144",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "why you kill your father",
+          "timestamp": "05:30 PM"
+        },
+        {
+          "id": "msg_1790703014146",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "Officer, please keep searching. Father would never willingly leave his study with the safe open and lights off.",
+          "timestamp": "05:30 PM",
+          "conversationStage": 2
+        },
+        {
+          "id": "msg_1790703033150",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "tell the truth dont lie",
+          "timestamp": "05:30 PM"
+        },
+        {
+          "id": "msg_1790703037152",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "This house was father's sanctuary. Knowing someone violated it in the dark breaks my heart.",
+          "timestamp": "05:30 PM",
+          "conversationStage": 2
+        },
+        {
+          "id": "msg_1790703051806",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "why you kill i know everything",
+          "timestamp": "05:30 PM"
+        },
+        {
+          "id": "msg_1790703055808",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "I have answered everything I know. If you find any real forensic trace of whoever broke into that study, please tell me.",
+          "timestamp": "05:30 PM",
+          "conversationStage": 2
+        },
+        {
+          "id": "msg_1790703069387",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "you and vicky planned and kill your father",
+          "timestamp": "05:31 PM"
+        },
+        {
+          "id": "msg_1790703072207",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "That is a monstrous accusation. How could you even suggest that? Vicky and I... we are barely on speaking terms, let alone planning something so horrific.\n\nLook, I didn’t want to say this because I was embarrassed, but I need you to stop pointing fingers at me. Yes, I left my room during the blackout. I was restless, and I heard a commotion—a struggle, really—coming from the direction of the study. I went toward the corridor, but I was terrified. I didn't go inside. I heard heavy breathing and the sound of someone moving in the dark, and I panicked. I retreated back to my room immediately. \n\nI’m an architect; I have enough stress with my own firm to worry about, I didn't need to be involved in whatever madness happened in that study. Why would I kill the only person who supported my career? You are looking at the wrong person.",
+          "timestamp": "05:31 PM",
+          "conversationStage": 2
+        },
+        {
+          "id": "msg_1790703085764",
+          "suspectId": "meena",
+          "sender": "player",
+          "text": "dont lie tell the truth",
+          "timestamp": "05:31 PM"
+        },
+        {
+          "id": "msg_1790703089066",
+          "suspectId": "meena",
+          "sender": "suspect",
+          "text": "I am telling you the truth! Why is it so hard for you to believe that a daughter would be terrified in her own home when her father is being attacked?\n\nYou keep pushing me, acting as if you have all the answers. If you’re so convinced I’m lying, then you clearly don’t understand how desperate things were. I am an architect, not a criminal. Yes, I had access to the business accounts—I’ve helped Father with the books for years, it’s part of how I managed my own studio’s projects. Is that a crime now? \n\nI went toward the study because I heard him shouting, but when I reached the corridor, the air felt thick with... malice. I didn't see a face, but I heard the struggle. I was scared, I was shaking, and I just wanted to get away before whoever was in there saw me. I didn't kill him! Why would I destroy the only person who actually understood my work? If you want to find the killer, stop harassing me and look at who else was actually near that wing when the lights came back on. You’re wasting time while the real person responsible is",
+          "timestamp": "05:31 PM",
+          "discoveredClueId": "clue-meena-ledger",
+          "conversationStage": 2
+        }
+      ],
+      "rangan": [
+        {
+          "id": "msg_1790703112284",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "tell the truth where are you",
+          "timestamp": "05:31 PM"
+        },
+        {
+          "id": "msg_1790703115174",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "I don’t answer amateur interrogators, and I certainly don't appreciate your tone. If you have questions regarding the business affairs of Varadarajan, take them up with my advocate. I have no interest in entertaining these baseless insinuations, so unless you have a warrant or something of actual substance to discuss, stop wasting my time. I have a business to run, and I suggest you find someone else to bother with your detective games.",
+          "timestamp": "05:31 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703136491",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "at 9 30 where are you",
+          "timestamp": "05:32 PM"
+        },
+        {
+          "id": "msg_1790703138988",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "I have nothing to hide from anyone. Varadarajan and I were rivals, but I settle my scores in front of a magistrate.",
+          "timestamp": "05:32 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703162950",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "i know you and him have a conflict in bussiness so you planned him and kill him",
+          "timestamp": "05:32 PM"
+        },
+        {
+          "id": "msg_1790703165861",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "That is a dangerous accusation, and I suggest you watch your tongue before you find yourself on the receiving end of a defamation suit. You speak of \"planning\" as if I have nothing better to do than waste my time on a man like Varadarajan. \n\nOur dispute regarding the bypass commercial land was a matter of legitimate business litigation—a disagreement over contracts and assets, not a motive for a crime. Just because we were at odds doesn't make me a murderer. I am a man of principle and I operate within the law, unlike those who prefer to lurk in the shadows and cast aspersions. \n\nIf you want to play detective, go find someone who actually cares about your theories. I’m done with this conversation.",
+          "timestamp": "05:32 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703180264",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "then tell me the truth dont lie",
+          "timestamp": "05:33 PM"
+        },
+        {
+          "id": "msg_1790703182624",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "Ask your questions quickly. I have appointments with my advocates in the morning.",
+          "timestamp": "05:33 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703213730",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "why are hurry dont lie why are you kill him",
+          "timestamp": "05:33 PM"
+        },
+        {
+          "id": "msg_1790703216739",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "\"Kill him?\" Don't be absurd. Your grasp of reality is as flimsy as your investigative skills. \n\nLet me make this perfectly clear: I am a businessman, not a common thug. If I wanted Varadarajan dealt with, I would have bankrupted him legally and watched him crawl back to me on his knees—which is exactly what I was in the process of doing. \n\nI don't answer to amateur interrogators or baseless accusations. If you have a warrant, produce it. Otherwise, stop wasting my time with your pathetic theories. I have no interest in your little games. Talk to my advocate if you have any more questions; I am finished here.",
+          "timestamp": "05:33 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703231244",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "dont lie i know the truth",
+          "timestamp": "05:33 PM"
+        },
+        {
+          "id": "msg_1790703233720",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "If you want to find who killed Varadarajan, stop harassing honest businessmen and look at who stood to inherit his properties!",
+          "timestamp": "05:33 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703280267",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "i enquire everyone, everyone suspect you, you are only enemy for him so you kill him",
+          "timestamp": "05:34 PM"
+        },
+        {
+          "id": "msg_1790703281679",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "I have nothing to hide from anyone. Varadarajan and I were rivals, but I settle my scores in front of a magistrate.",
+          "timestamp": "05:34 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703295487",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "then dont lie tell the truth i know everything",
+          "timestamp": "05:34 PM"
+        },
+        {
+          "id": "msg_1790703299488",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "Ask your questions quickly. I have appointments with my advocates in the morning.",
+          "timestamp": "05:34 PM",
+          "conversationStage": 0
+        },
+        {
+          "id": "msg_1790703308025",
+          "suspectId": "rangan",
+          "sender": "player",
+          "text": "dont act tell the truth",
+          "timestamp": "05:35 PM"
+        },
+        {
+          "id": "msg_1790703311172",
+          "suspectId": "rangan",
+          "sender": "suspect",
+          "text": "Listen to me carefully, you insolent child. I don't \"act\" and I certainly don't take instructions from someone who clearly has no understanding of how the real world operates. \n\nVaradarajan and I had our professional disagreements—every man of substance does. But if you think I’m the kind of person who resorts to petty violence to settle a land dispute, you are not only mistaken, you are bordering on slander. I have a reputation to maintain, and I don't answer to amateur interrogators who think they’ve stumbled upon a mystery. \n\nTalk to my advocate if you have questions. Otherwise, get out of my office. I have actual business to attend to.",
+          "timestamp": "05:35 PM",
+          "conversationStage": 0
+        }
+      ]
+    }
+  },
+  "evaluationState": {
+    "status": "PENDING",
+    "isLeaderboardPublished": false,
+    "publishedAt": null,
+    "completedAt": "2026-09-29T17:19:55.841Z",
+    "totalPlayers": 6,
+    "playersEvaluated": 6,
+    "playersPending": 0,
+    "averageScore": 0.2,
+    "averageAccuracy": 0,
+    "fastestSolver": null,
+    "highestAccuracy": {
+      "playerName": "Karthik",
+      "accuracy": 0
+    },
+    "mostCluesDiscovered": {
+      "playerName": "Karthik",
+      "count": 0
+    },
+    "mostCompleteInvestigation": {
+      "playerName": "Abinaya M",
+      "percentage": 25
+    },
+    "reports": {
+      "p001": {
+        "playerId": "p001",
+        "playerName": "Karthik",
+        "username": "player001",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "isSubmitted": false,
+        "scoreBreakdown": {
+          "investigationScore": 0,
+          "investigationMax": 40,
+          "investigationDetails": {
+            "criticalCluesScore": 0,
+            "criticalCluesMax": 20,
+            "supportingCluesScore": 0,
+            "supportingCluesMax": 10,
+            "interpretationScore": 0,
+            "interpretationMax": 5,
+            "completenessScore": 0,
+            "completenessMax": 5
+          },
+          "finalAnswerScore": 0,
+          "finalAnswerMax": 30,
+          "finalAnswerDetails": {
+            "conclusionScore": 0,
+            "conclusionMax": 10,
+            "culpritScore": 0,
+            "culpritMax": 8,
+            "motiveScore": 0,
+            "motiveMax": 5,
+            "explanationScore": 0,
+            "explanationMax": 4,
+            "evidenceLinkScore": 0,
+            "evidenceLinkMax": 3
+          },
+          "reasoningScore": 0,
+          "reasoningMax": 20,
+          "reasoningDetails": {
+            "logicalConnectionsScore": 0,
+            "suspectSuspicionScore": 0,
+            "eliminationScore": 0,
+            "multipleCluesScore": 0,
+            "sequenceExplanationScore": 0
+          },
+          "timeScore": 0,
+          "timeMax": 10,
+          "totalScore": 0,
+          "totalMax": 100
+        },
+        "investigationSummary": {
+          "suspectsInvestigatedCount": 0,
+          "totalSuspects": 3,
+          "questionsAsked": 0,
+          "importantQuestionsCount": 0,
+          "criticalCluesFoundCount": 0,
+          "totalCriticalClues": 4,
+          "supportingCluesFoundCount": 0,
+          "totalSupportingClues": 2,
+          "incorrectAssumptionsCount": 0,
+          "investigationCompleteness": 0
+        },
+        "playerFinalAnswer": {
+          "suspect": "None",
+          "motive": "None",
+          "evidence": [],
+          "notes": "None recorded",
+          "submittedAt": "N/A"
+        },
+        "correctAnswerKeySummary": {
+          "correctCulprit": "Vicky (Varadarajan's Nephew)",
+          "correctMotive": "Severe financial debt of over ₹85 Lakh from a failed business deal. Vicky learned that Varadarajan was finalizing a property settlement deed the next day leaving commercial assets to Meena and leaving Vicky with almost nothing. Desperate to avoid financial ruin and creditor seizures, Vicky planned to steal the deed during the planned blackout.",
+          "correctConclusion": "Vicky murdered Varadarajan in his study during the 8-minute blackout (between 9:42 PM and 9:50 PM) after paying cook Perumal ₹10 Lakh to switch off the main electrical breaker. Vicky confronted Varadarajan to steal the property settlement deed that would disinherit him and expose his ₹85 Lakh business debt."
+        },
+        "evaluationExplanation": {
+          "verdict": "Incomplete: No Final Accusation Filed",
+          "strengths": [],
+          "weaknesses": [
+            "No reasoning or notes were provided by the player.",
+            "Investigation concluded before official case submission",
+            "Missed 4 critical clues"
+          ],
+          "summary": "Incomplete: No Final Accusation Filed. Final score of 0/100 with an overall investigation accuracy of 0%. No final accusation or solution was submitted by the player before the event ended. No deduction logic presented."
+        },
+        "evaluatedAt": "05:19 PM",
+        "rank": 2
+      },
+      "p002": {
+        "playerId": "p002",
+        "playerName": "Priya",
+        "username": "player002",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "isSubmitted": false,
+        "scoreBreakdown": {
+          "investigationScore": 0,
+          "investigationMax": 40,
+          "investigationDetails": {
+            "criticalCluesScore": 0,
+            "criticalCluesMax": 20,
+            "supportingCluesScore": 0,
+            "supportingCluesMax": 10,
+            "interpretationScore": 0,
+            "interpretationMax": 5,
+            "completenessScore": 0,
+            "completenessMax": 5
+          },
+          "finalAnswerScore": 0,
+          "finalAnswerMax": 30,
+          "finalAnswerDetails": {
+            "conclusionScore": 0,
+            "conclusionMax": 10,
+            "culpritScore": 0,
+            "culpritMax": 8,
+            "motiveScore": 0,
+            "motiveMax": 5,
+            "explanationScore": 0,
+            "explanationMax": 4,
+            "evidenceLinkScore": 0,
+            "evidenceLinkMax": 3
+          },
+          "reasoningScore": 0,
+          "reasoningMax": 20,
+          "reasoningDetails": {
+            "logicalConnectionsScore": 0,
+            "suspectSuspicionScore": 0,
+            "eliminationScore": 0,
+            "multipleCluesScore": 0,
+            "sequenceExplanationScore": 0
+          },
+          "timeScore": 0,
+          "timeMax": 10,
+          "totalScore": 0,
+          "totalMax": 100
+        },
+        "investigationSummary": {
+          "suspectsInvestigatedCount": 0,
+          "totalSuspects": 3,
+          "questionsAsked": 0,
+          "importantQuestionsCount": 0,
+          "criticalCluesFoundCount": 0,
+          "totalCriticalClues": 4,
+          "supportingCluesFoundCount": 0,
+          "totalSupportingClues": 2,
+          "incorrectAssumptionsCount": 0,
+          "investigationCompleteness": 0
+        },
+        "playerFinalAnswer": {
+          "suspect": "None",
+          "motive": "None",
+          "evidence": [],
+          "notes": "None recorded",
+          "submittedAt": "N/A"
+        },
+        "correctAnswerKeySummary": {
+          "correctCulprit": "Vicky (Varadarajan's Nephew)",
+          "correctMotive": "Severe financial debt of over ₹85 Lakh from a failed business deal. Vicky learned that Varadarajan was finalizing a property settlement deed the next day leaving commercial assets to Meena and leaving Vicky with almost nothing. Desperate to avoid financial ruin and creditor seizures, Vicky planned to steal the deed during the planned blackout.",
+          "correctConclusion": "Vicky murdered Varadarajan in his study during the 8-minute blackout (between 9:42 PM and 9:50 PM) after paying cook Perumal ₹10 Lakh to switch off the main electrical breaker. Vicky confronted Varadarajan to steal the property settlement deed that would disinherit him and expose his ₹85 Lakh business debt."
+        },
+        "evaluationExplanation": {
+          "verdict": "Incomplete: No Final Accusation Filed",
+          "strengths": [],
+          "weaknesses": [
+            "No reasoning or notes were provided by the player.",
+            "Investigation concluded before official case submission",
+            "Missed 4 critical clues"
+          ],
+          "summary": "Incomplete: No Final Accusation Filed. Final score of 0/100 with an overall investigation accuracy of 0%. No final accusation or solution was submitted by the player before the event ended. No deduction logic presented."
+        },
+        "evaluatedAt": "05:19 PM",
+        "rank": 3
+      },
+      "p003": {
+        "playerId": "p003",
+        "playerName": "Arun",
+        "username": "player003",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "isSubmitted": false,
+        "scoreBreakdown": {
+          "investigationScore": 0,
+          "investigationMax": 40,
+          "investigationDetails": {
+            "criticalCluesScore": 0,
+            "criticalCluesMax": 20,
+            "supportingCluesScore": 0,
+            "supportingCluesMax": 10,
+            "interpretationScore": 0,
+            "interpretationMax": 5,
+            "completenessScore": 0,
+            "completenessMax": 5
+          },
+          "finalAnswerScore": 0,
+          "finalAnswerMax": 30,
+          "finalAnswerDetails": {
+            "conclusionScore": 0,
+            "conclusionMax": 10,
+            "culpritScore": 0,
+            "culpritMax": 8,
+            "motiveScore": 0,
+            "motiveMax": 5,
+            "explanationScore": 0,
+            "explanationMax": 4,
+            "evidenceLinkScore": 0,
+            "evidenceLinkMax": 3
+          },
+          "reasoningScore": 0,
+          "reasoningMax": 20,
+          "reasoningDetails": {
+            "logicalConnectionsScore": 0,
+            "suspectSuspicionScore": 0,
+            "eliminationScore": 0,
+            "multipleCluesScore": 0,
+            "sequenceExplanationScore": 0
+          },
+          "timeScore": 0,
+          "timeMax": 10,
+          "totalScore": 0,
+          "totalMax": 100
+        },
+        "investigationSummary": {
+          "suspectsInvestigatedCount": 0,
+          "totalSuspects": 3,
+          "questionsAsked": 0,
+          "importantQuestionsCount": 0,
+          "criticalCluesFoundCount": 0,
+          "totalCriticalClues": 4,
+          "supportingCluesFoundCount": 0,
+          "totalSupportingClues": 2,
+          "incorrectAssumptionsCount": 0,
+          "investigationCompleteness": 0
+        },
+        "playerFinalAnswer": {
+          "suspect": "None",
+          "motive": "None",
+          "evidence": [],
+          "notes": "None recorded",
+          "submittedAt": "N/A"
+        },
+        "correctAnswerKeySummary": {
+          "correctCulprit": "Vicky (Varadarajan's Nephew)",
+          "correctMotive": "Severe financial debt of over ₹85 Lakh from a failed business deal. Vicky learned that Varadarajan was finalizing a property settlement deed the next day leaving commercial assets to Meena and leaving Vicky with almost nothing. Desperate to avoid financial ruin and creditor seizures, Vicky planned to steal the deed during the planned blackout.",
+          "correctConclusion": "Vicky murdered Varadarajan in his study during the 8-minute blackout (between 9:42 PM and 9:50 PM) after paying cook Perumal ₹10 Lakh to switch off the main electrical breaker. Vicky confronted Varadarajan to steal the property settlement deed that would disinherit him and expose his ₹85 Lakh business debt."
+        },
+        "evaluationExplanation": {
+          "verdict": "Incomplete: No Final Accusation Filed",
+          "strengths": [],
+          "weaknesses": [
+            "No reasoning or notes were provided by the player.",
+            "Investigation concluded before official case submission",
+            "Missed 4 critical clues"
+          ],
+          "summary": "Incomplete: No Final Accusation Filed. Final score of 0/100 with an overall investigation accuracy of 0%. No final accusation or solution was submitted by the player before the event ended. No deduction logic presented."
+        },
+        "evaluatedAt": "05:19 PM",
+        "rank": 4
+      },
+      "p_1790659633444": {
+        "playerId": "p_1790659633444",
+        "playerName": "Abinaya M",
+        "username": "830123104008",
+        "finalScore": 1.3,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "isSubmitted": false,
+        "scoreBreakdown": {
+          "investigationScore": 1.3,
+          "investigationMax": 40,
+          "investigationDetails": {
+            "criticalCluesScore": 0,
+            "criticalCluesMax": 20,
+            "supportingCluesScore": 0,
+            "supportingCluesMax": 10,
+            "interpretationScore": 0,
+            "interpretationMax": 5,
+            "completenessScore": 1.3,
+            "completenessMax": 5
+          },
+          "finalAnswerScore": 0,
+          "finalAnswerMax": 30,
+          "finalAnswerDetails": {
+            "conclusionScore": 0,
+            "conclusionMax": 10,
+            "culpritScore": 0,
+            "culpritMax": 8,
+            "motiveScore": 0,
+            "motiveMax": 5,
+            "explanationScore": 0,
+            "explanationMax": 4,
+            "evidenceLinkScore": 0,
+            "evidenceLinkMax": 3
+          },
+          "reasoningScore": 0,
+          "reasoningMax": 20,
+          "reasoningDetails": {
+            "logicalConnectionsScore": 0,
+            "suspectSuspicionScore": 0,
+            "eliminationScore": 0,
+            "multipleCluesScore": 0,
+            "sequenceExplanationScore": 0
+          },
+          "timeScore": 0,
+          "timeMax": 10,
+          "totalScore": 1.3,
+          "totalMax": 100
+        },
+        "investigationSummary": {
+          "suspectsInvestigatedCount": 2,
+          "totalSuspects": 3,
+          "questionsAsked": 2,
+          "importantQuestionsCount": 0,
+          "criticalCluesFoundCount": 0,
+          "totalCriticalClues": 4,
+          "supportingCluesFoundCount": 0,
+          "totalSupportingClues": 2,
+          "incorrectAssumptionsCount": 0,
+          "investigationCompleteness": 25
+        },
+        "playerFinalAnswer": {
+          "suspect": "None",
+          "motive": "None",
+          "evidence": [],
+          "notes": "None recorded",
+          "submittedAt": "N/A"
+        },
+        "correctAnswerKeySummary": {
+          "correctCulprit": "Vicky (Varadarajan's Nephew)",
+          "correctMotive": "Severe financial debt of over ₹85 Lakh from a failed business deal. Vicky learned that Varadarajan was finalizing a property settlement deed the next day leaving commercial assets to Meena and leaving Vicky with almost nothing. Desperate to avoid financial ruin and creditor seizures, Vicky planned to steal the deed during the planned blackout.",
+          "correctConclusion": "Vicky murdered Varadarajan in his study during the 8-minute blackout (between 9:42 PM and 9:50 PM) after paying cook Perumal ₹10 Lakh to switch off the main electrical breaker. Vicky confronted Varadarajan to steal the property settlement deed that would disinherit him and expose his ₹85 Lakh business debt."
+        },
+        "evaluationExplanation": {
+          "verdict": "Incomplete: No Final Accusation Filed",
+          "strengths": [],
+          "weaknesses": [
+            "No reasoning or notes were provided by the player.",
+            "Investigation concluded before official case submission",
+            "Missed 4 critical clues"
+          ],
+          "summary": "Incomplete: No Final Accusation Filed. Final score of 1.3/100 with an overall investigation accuracy of 0%. No final accusation or solution was submitted by the player before the event ended. No deduction logic presented."
+        },
+        "evaluatedAt": "05:19 PM",
+        "rank": 1
+      },
+      "p_1790660004651": {
+        "playerId": "p_1790660004651",
+        "playerName": "Abi",
+        "username": "830123104003",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "isSubmitted": false,
+        "scoreBreakdown": {
+          "investigationScore": 0,
+          "investigationMax": 40,
+          "investigationDetails": {
+            "criticalCluesScore": 0,
+            "criticalCluesMax": 20,
+            "supportingCluesScore": 0,
+            "supportingCluesMax": 10,
+            "interpretationScore": 0,
+            "interpretationMax": 5,
+            "completenessScore": 0,
+            "completenessMax": 5
+          },
+          "finalAnswerScore": 0,
+          "finalAnswerMax": 30,
+          "finalAnswerDetails": {
+            "conclusionScore": 0,
+            "conclusionMax": 10,
+            "culpritScore": 0,
+            "culpritMax": 8,
+            "motiveScore": 0,
+            "motiveMax": 5,
+            "explanationScore": 0,
+            "explanationMax": 4,
+            "evidenceLinkScore": 0,
+            "evidenceLinkMax": 3
+          },
+          "reasoningScore": 0,
+          "reasoningMax": 20,
+          "reasoningDetails": {
+            "logicalConnectionsScore": 0,
+            "suspectSuspicionScore": 0,
+            "eliminationScore": 0,
+            "multipleCluesScore": 0,
+            "sequenceExplanationScore": 0
+          },
+          "timeScore": 0,
+          "timeMax": 10,
+          "totalScore": 0,
+          "totalMax": 100
+        },
+        "investigationSummary": {
+          "suspectsInvestigatedCount": 0,
+          "totalSuspects": 3,
+          "questionsAsked": 0,
+          "importantQuestionsCount": 0,
+          "criticalCluesFoundCount": 0,
+          "totalCriticalClues": 4,
+          "supportingCluesFoundCount": 0,
+          "totalSupportingClues": 2,
+          "incorrectAssumptionsCount": 0,
+          "investigationCompleteness": 0
+        },
+        "playerFinalAnswer": {
+          "suspect": "None",
+          "motive": "None",
+          "evidence": [],
+          "notes": "None recorded",
+          "submittedAt": "N/A"
+        },
+        "correctAnswerKeySummary": {
+          "correctCulprit": "Vicky (Varadarajan's Nephew)",
+          "correctMotive": "Severe financial debt of over ₹85 Lakh from a failed business deal. Vicky learned that Varadarajan was finalizing a property settlement deed the next day leaving commercial assets to Meena and leaving Vicky with almost nothing. Desperate to avoid financial ruin and creditor seizures, Vicky planned to steal the deed during the planned blackout.",
+          "correctConclusion": "Vicky murdered Varadarajan in his study during the 8-minute blackout (between 9:42 PM and 9:50 PM) after paying cook Perumal ₹10 Lakh to switch off the main electrical breaker. Vicky confronted Varadarajan to steal the property settlement deed that would disinherit him and expose his ₹85 Lakh business debt."
+        },
+        "evaluationExplanation": {
+          "verdict": "Incomplete: No Final Accusation Filed",
+          "strengths": [],
+          "weaknesses": [
+            "No reasoning or notes were provided by the player.",
+            "Investigation concluded before official case submission",
+            "Missed 4 critical clues"
+          ],
+          "summary": "Incomplete: No Final Accusation Filed. Final score of 0/100 with an overall investigation accuracy of 0%. No final accusation or solution was submitted by the player before the event ended. No deduction logic presented."
+        },
+        "evaluatedAt": "05:19 PM",
+        "rank": 5
+      },
+      "p_1790700806535": {
+        "playerId": "p_1790700806535",
+        "playerName": "Priya Sharma",
+        "username": "830123104002",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "isSubmitted": false,
+        "scoreBreakdown": {
+          "investigationScore": 0,
+          "investigationMax": 40,
+          "investigationDetails": {
+            "criticalCluesScore": 0,
+            "criticalCluesMax": 20,
+            "supportingCluesScore": 0,
+            "supportingCluesMax": 10,
+            "interpretationScore": 0,
+            "interpretationMax": 5,
+            "completenessScore": 0,
+            "completenessMax": 5
+          },
+          "finalAnswerScore": 0,
+          "finalAnswerMax": 30,
+          "finalAnswerDetails": {
+            "conclusionScore": 0,
+            "conclusionMax": 10,
+            "culpritScore": 0,
+            "culpritMax": 8,
+            "motiveScore": 0,
+            "motiveMax": 5,
+            "explanationScore": 0,
+            "explanationMax": 4,
+            "evidenceLinkScore": 0,
+            "evidenceLinkMax": 3
+          },
+          "reasoningScore": 0,
+          "reasoningMax": 20,
+          "reasoningDetails": {
+            "logicalConnectionsScore": 0,
+            "suspectSuspicionScore": 0,
+            "eliminationScore": 0,
+            "multipleCluesScore": 0,
+            "sequenceExplanationScore": 0
+          },
+          "timeScore": 0,
+          "timeMax": 10,
+          "totalScore": 0,
+          "totalMax": 100
+        },
+        "investigationSummary": {
+          "suspectsInvestigatedCount": 0,
+          "totalSuspects": 3,
+          "questionsAsked": 0,
+          "importantQuestionsCount": 0,
+          "criticalCluesFoundCount": 0,
+          "totalCriticalClues": 4,
+          "supportingCluesFoundCount": 0,
+          "totalSupportingClues": 2,
+          "incorrectAssumptionsCount": 0,
+          "investigationCompleteness": 0
+        },
+        "playerFinalAnswer": {
+          "suspect": "None",
+          "motive": "None",
+          "evidence": [],
+          "notes": "None recorded",
+          "submittedAt": "N/A"
+        },
+        "correctAnswerKeySummary": {
+          "correctCulprit": "Vicky (Varadarajan's Nephew)",
+          "correctMotive": "Severe financial debt of over ₹85 Lakh from a failed business deal. Vicky learned that Varadarajan was finalizing a property settlement deed the next day leaving commercial assets to Meena and leaving Vicky with almost nothing. Desperate to avoid financial ruin and creditor seizures, Vicky planned to steal the deed during the planned blackout.",
+          "correctConclusion": "Vicky murdered Varadarajan in his study during the 8-minute blackout (between 9:42 PM and 9:50 PM) after paying cook Perumal ₹10 Lakh to switch off the main electrical breaker. Vicky confronted Varadarajan to steal the property settlement deed that would disinherit him and expose his ₹85 Lakh business debt."
+        },
+        "evaluationExplanation": {
+          "verdict": "Incomplete: No Final Accusation Filed",
+          "strengths": [],
+          "weaknesses": [
+            "No reasoning or notes were provided by the player.",
+            "Investigation concluded before official case submission",
+            "Missed 4 critical clues"
+          ],
+          "summary": "Incomplete: No Final Accusation Filed. Final score of 0/100 with an overall investigation accuracy of 0%. No final accusation or solution was submitted by the player before the event ended. No deduction logic presented."
+        },
+        "evaluatedAt": "05:19 PM",
+        "rank": 6
+      }
+    },
+    "leaderboard": [
+      {
+        "rank": 1,
+        "playerId": "p_1790659633444",
+        "playerName": "Abinaya M",
+        "username": "830123104008",
+        "finalScore": 1.3,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "cluesFoundCount": 0,
+        "totalCluesCount": 6,
+        "status": "Incomplete",
+        "criticalCluesScore": 0,
+        "reasoningScore": 0
+      },
+      {
+        "rank": 2,
+        "playerId": "p001",
+        "playerName": "Karthik",
+        "username": "player001",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "cluesFoundCount": 0,
+        "totalCluesCount": 6,
+        "status": "Not Started",
+        "criticalCluesScore": 0,
+        "reasoningScore": 0
+      },
+      {
+        "rank": 3,
+        "playerId": "p002",
+        "playerName": "Priya",
+        "username": "player002",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "cluesFoundCount": 0,
+        "totalCluesCount": 6,
+        "status": "Not Started",
+        "criticalCluesScore": 0,
+        "reasoningScore": 0
+      },
+      {
+        "rank": 4,
+        "playerId": "p003",
+        "playerName": "Arun",
+        "username": "player003",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "cluesFoundCount": 0,
+        "totalCluesCount": 6,
+        "status": "Not Started",
+        "criticalCluesScore": 0,
+        "reasoningScore": 0
+      },
+      {
+        "rank": 5,
+        "playerId": "p_1790660004651",
+        "playerName": "Abi",
+        "username": "830123104003",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "cluesFoundCount": 0,
+        "totalCluesCount": 6,
+        "status": "Not Started",
+        "criticalCluesScore": 0,
+        "reasoningScore": 0
+      },
+      {
+        "rank": 6,
+        "playerId": "p_1790700806535",
+        "playerName": "Priya Sharma",
+        "username": "830123104002",
+        "finalScore": 0,
+        "accuracyPercentage": 0,
+        "timeTakenFormatted": "60 min 00 sec",
+        "timeTakenSeconds": 3600,
+        "cluesFoundCount": 0,
+        "totalCluesCount": 6,
+        "status": "Not Started",
+        "criticalCluesScore": 0,
+        "reasoningScore": 0
+      }
+    ],
+    "auditLogs": []
+  },
+  "caseConfig": {
+    "answerKey": {
+      "caseTitle": "The Hidden Mystery — The 8-Minute Blackout at 9:42 PM",
+      "correctCulpritId": "vicky",
+      "correctCulpritName": "Vicky (Varadarajan's Nephew)",
+      "correctConclusion": "Vicky murdered Varadarajan in his study during the 8-minute blackout (between 9:42 PM and 9:50 PM) after paying cook Perumal ₹10 Lakh to switch off the main electrical breaker. Vicky confronted Varadarajan to steal the property settlement deed that would disinherit him and expose his ₹85 Lakh business debt.",
+      "correctMotive": "Severe financial debt of over ₹85 Lakh from a failed business deal. Vicky learned that Varadarajan was finalizing a property settlement deed the next day leaving commercial assets to Meena and leaving Vicky with almost nothing. Desperate to avoid financial ruin and creditor seizures, Vicky planned to steal the deed during the planned blackout.",
+      "correctSequenceOfEvents": [
+        {
+          "time": "09:20 PM",
+          "event": "Varadarajan receives a phone call from rival Rangan regarding the land dispute. Varadarajan says: \"Tomorrow, we'll settle this.\""
+        },
+        {
+          "time": "09:30 PM",
+          "event": "Vicky arrives at the ancestral house behaving normally. Meanwhile, Rangan arrives at Nilgiris Town Police Station."
+        },
+        {
+          "time": "09:40 PM",
+          "event": "Cook Perumal moves toward the exterior electrical breaker panel with a flashlight."
+        },
+        {
+          "time": "09:42 PM",
+          "event": "Perumal switches off the main electrical breaker, plunging the entire house into darkness."
+        },
+        {
+          "time": "09:43 PM - 09:48 PM",
+          "event": "Meena sneaks toward the study to hide her secret financial ledger. Vicky enters the study in the dark, confronts Varadarajan, demands the settlement deed. A violent scuffle ensues; Vicky kills Varadarajan and takes the deed."
+        },
+        {
+          "time": "09:50 PM",
+          "event": "Perumal turns the power back on. Electricity returns. Vicky behaves normally; Perumal is terrified; Meena hides her financial issue; Varadarajan is found dead in the study."
+        }
+      ],
+      "criticalClueIds": [
+        "clue-breaker-tripped",
+        "clue-advance-payment",
+        "clue-failed-deal",
+        "clue-missing-settlement"
+      ],
+      "supportingClueIds": [
+        "clue-vicky-watch",
+        "clue-police-cctv"
+      ],
+      "redHerringClueIds": [
+        "clue-meena-ledger"
+      ],
+      "requiredReasoningPoints": [
+        "Connects cook Perumal manually tripping the main electrical breaker at 9:42 PM to the power cut",
+        "Identifies the ₹10 Lakh bribe offered by Vicky to Perumal for creating the blackout window",
+        "Establishes Vicky's critical motive: ₹85 Lakh business debt and disinheritance under the pending property settlement",
+        "Demonstrates that Vicky confronted Varadarajan in the study during the 8-minute blackout (9:42 PM - 9:50 PM) and took the deed",
+        "Exonerates daughter Meena: her movement toward the study was solely to retrieve her company account ledger (red herring)",
+        "Exonerates rival Rangan: verified Town Police Station diary entry and CCTV prove his alibi during the murder window"
+      ],
+      "acceptableAlternativeExplanations": [
+        "vicky killed varadarajan in the study during the 9:42 blackout after paying perumal 10 lakhs to cut the power to steal the property settlement deed",
+        "vicky is the murderer who paid perumal 10 lakh to turn off breaker at 9:42 pm because of his debts and property disinheritance",
+        "vicky murdered his uncle in the study during darkness to take the will/settlement document due to failed business debt",
+        "vicky bribed perumal for a power cut at 9:42 to confront and kill varadarajan for property documents"
+      ]
+    },
+    "clueWeights": {
+      "clue-breaker-tripped": {
+        "id": "clue-breaker-tripped",
+        "title": "Manually Tripped Main Breaker Switch",
+        "type": "Critical",
+        "weight": 15,
+        "description": "The 63-amp main breaker was manually pulled down at 9:42 PM on the exterior panel; grid power was continuous.",
+        "expectedInterpretation": "Proves the blackout was planned and executed inside the house, not an external grid failure."
+      },
+      "clue-advance-payment": {
+        "id": "clue-advance-payment",
+        "title": "Perumal's Bank Deposit Slip & ₹10 Lakh Agreement",
+        "type": "Critical",
+        "weight": 15,
+        "description": "Deposit slip for ₹2,00,000 in cash into Perumal's daughter's account, tied to ₹10 Lakh promise for cutting power at 9:42 PM.",
+        "expectedInterpretation": "Links the deliberate power cut directly to Perumal being paid off by an insider."
+      },
+      "clue-failed-deal": {
+        "id": "clue-failed-deal",
+        "title": "Vicky's Urgent Debt Demands & Creditor Notices",
+        "type": "Critical",
+        "weight": 15,
+        "description": "Demand letters totaling ₹85 Lakh against Vicky from aggressive creditors threatening asset seizure within 48 hours.",
+        "expectedInterpretation": "Establishes Vicky's desperate financial crisis and urgent motive for immediate cash/property."
+      },
+      "clue-missing-settlement": {
+        "id": "clue-missing-settlement",
+        "title": "Torn Property Settlement Draft & Empty Safe File",
+        "type": "Critical",
+        "weight": 15,
+        "description": "Varadarajan's unbolted desk safe and empty settlement deed folder disinheriting Vicky in favor of Meena.",
+        "expectedInterpretation": "Proves the victim was targeted specifically to stop the new property settlement from being finalized."
+      },
+      "clue-vicky-watch": {
+        "id": "clue-vicky-watch",
+        "title": "Scratched Wristwatch & Broken Cufflink at Study Threshold",
+        "type": "Important",
+        "weight": 10,
+        "description": "Broken monogrammed cufflink initialed 'V' and scuff marks indicating a violent physical struggle in the dark.",
+        "expectedInterpretation": "Physically places Vicky inside the study engaging in a violent confrontation during the blackout."
+      },
+      "clue-police-cctv": {
+        "id": "clue-police-cctv",
+        "title": "Rangan's Town Police Station Alibi & CCTV Timestamp",
+        "type": "Important",
+        "weight": 10,
+        "description": "Certified police station register and CCTV showing Rangan filing a complaint between 9:30 PM and 10:15 PM.",
+        "expectedInterpretation": "Completely eliminates Rangan as a suspect despite his vocal threats and public motive."
+      },
+      "clue-meena-ledger": {
+        "id": "clue-meena-ledger",
+        "title": "Company Account Ledger Hidden by Meena (Red Herring)",
+        "type": "RedHerring",
+        "weight": 0,
+        "description": "Ledger showing Meena's secret ₹25 Lakh personal withdrawal; she hid it during the blackout to avoid discovery.",
+        "expectedInterpretation": "Explains Meena's suspicious movement near the study as an unrelated financial secret (red herring)."
+      }
+    },
+    "rubric": {
+      "maxInvestigationScore": 40,
+      "maxFinalAnswerScore": 30,
+      "maxReasoningScore": 20,
+      "maxTimeScore": 10,
+      "investigationBreakdown": {
+        "criticalCluesWeight": 20,
+        "supportingCluesWeight": 10,
+        "evidenceInterpretationWeight": 5,
+        "investigationCompletenessWeight": 5
+      },
+      "finalAnswerBreakdown": {
+        "conclusionWeight": 10,
+        "culpritWeight": 8,
+        "motiveWeight": 5,
+        "explanationWeight": 4,
+        "supportingEvidenceWeight": 3
+      }
+    },
+    "scoringLocked": true
+  },
+  "sessions": {
+    "thm_3c4f1c8372c0bbeca8b0e6c1c985b2c06a30d2ad87e184ca": {
+      "userId": "p_1790659633444",
+      "role": "PLAYER",
+      "expiresAt": 1791306330296
+    },
+    "thm_c5674e94f7a9f6473a28a53965977b0ba7851dc1003b7365": {
+      "userId": "admin_001",
+      "role": "ADMIN",
+      "expiresAt": 1791306333873
+    },
+    "thm_13ebca11f270ada7ed21e3527812b556b92e975527d53f97": {
+      "userId": "admin_001",
+      "role": "ADMIN",
+      "expiresAt": 1791307191567
+    },
+    "thm_5638b4054368fb6499bd38c222c7ca2fdaa856637f183b83": {
+      "userId": "p_1790700806535",
+      "role": "PLAYER",
+      "expiresAt": 1791307205868
+    },
+    "thm_26d44ccae5a26df025f251104218f56445ad8bde36cfd036": {
+      "userId": "admin_001",
+      "role": "ADMIN",
+      "expiresAt": 1791307288659
+    },
+    "thm_5d8d13105caa2d76acf4f041eaf7e601edbe029a98dbb808": {
+      "userId": "p_1790702528106",
+      "role": "PLAYER",
+      "expiresAt": 1791307328107
+    },
+    "thm_cfa5326d4bc749368f7b58be20dcac71baa3f4e50a795410": {
+      "userId": "admin_001",
+      "role": "ADMIN",
+      "expiresAt": 1791309078294
+    }
+  }
+}

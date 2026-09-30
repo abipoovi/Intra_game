@@ -1,0 +1,6 @@
+{
+  "name": "The ₹50 Crore Will (தி 50 கோடி உயில்)",
+  "description": "Tamil cinema style detective investigation game. Interrogate suspects, examine forensic evidence, and solve the ₹50 Crore mystery in 30 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
